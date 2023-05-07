@@ -2,10 +2,10 @@ export const users = [
     {
         id: 1,
         fname: 'Satya',
-        lname: 'Satya',
+        lname: 'Barik',
         username: 'Satya_123',
-        email: 'satyambarik574@gmail.com',
-        phone: '8658473593',
+        email: 'xyz@gmail.com',
+        phone: '123456789',
         password: '123456',
     }
 ];

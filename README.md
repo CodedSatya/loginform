@@ -6,7 +6,7 @@ Check the live page at https://loginpage-coded-satya.netlify.app/
 
 The predefined username is Satya_123
 
-You can also use the predefined phone number : 123456789 and predefined email xyz@gmail.com to login
+You can also use the predefined phone number : 123456789 and predefined email : xyz@gmail.com to login
 
 The predefined password is 123456
 

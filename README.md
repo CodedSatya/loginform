@@ -15,5 +15,3 @@ You can also login through your registered phone number and email address
 This webpage doesn't use any data base to store your detail and your details will be removed as you reload the page so don't worry about your privacy
 
 This page just stores your details in a javascript object and with a reload your details will be removed
-
-You can also register and login the page
